@@ -1,1 +1,2 @@
-const nome = 'sdfd';
+const nome = 'dfd';
+console.log(nome);
