@@ -31,6 +31,8 @@ export default [
           varsIgnorePattern: '^_',
         },
       ],
+      'prefer-const': 'error', // ✅ adicionada aqui
+      '@typescript-eslint/no-inferrable-types': 'error', // ✅ adicionada aqui
     },
   },
 ];
